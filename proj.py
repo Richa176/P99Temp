@@ -118,11 +118,10 @@ def get_file_or_folder_age(path):
 
 	# getting ctime of the file/folder
 	# time will be in seconds
-	ctime = os.stat(path).st_ctime
+	      write code here from project document
 
 	# returning the time
-	return ctime
-
+		write code here from project document
 
 if __name__ == '__main__':
 	main()
